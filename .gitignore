@@ -1,0 +1,40 @@
+# ----------------------------
+# Python / Virtualenv
+# ----------------------------
+__pycache__/
+*.py[cod]
+*.pyd
+*.so
+.venv/
+venv/
+env/
+ENV/
+pip-wheel-metadata/
+
+# ----------------------------
+# Jupyter
+# ----------------------------
+.ipynb_checkpoints/
+
+# ----------------------------
+# OS / Editor
+# ----------------------------
+.DS_Store
+Thumbs.db
+.vscode/
+.idea/
+
+# ----------------------------
+# Data (do NOT commit raw competition data)
+# Keep folder structure only
+# ----------------------------
+**/data/raw/*
+!**/data/raw/
+**/data/processed/*
+!**/data/processed/
+
+# ----------------------------
+# Results / Outputs (keep structure only)
+# ----------------------------
+**/results/*
+!**/results/
