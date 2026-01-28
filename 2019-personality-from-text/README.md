@@ -5,6 +5,9 @@ This directory contains **reproducible, fully runnable solutions** for the
 **2019 SIOP Machine Learning Competition**, which focused on predicting Big Five
 personality traits from open-ended situational judgment item (SJI) responses.
 
+Thompson, I., Koenig, N., & Lui, M. The 2019 SIOP Machine Learning Competition. Presented at the 34th annual Society for Industrial and Organizational Psychology conference in Austin, TX.
+
+
 The goal of the competition was to **maximize mean Pearson correlation (r)**
 between predicted and observed trait scores across five traits:
 - Agreeableness (A)
@@ -122,5 +125,3 @@ Diagnostic figures → results/figures/
 Modern deep embeddings do not automatically outperform well-tuned linear text models
 Competition metrics matter more than model sophistication
 Reproducibility and interpretability remain critical in applied ML
-
-Thompson, I., Koenig, N., & Lui, M. The 2019 SIOP Machine Learning Competition. Presented at the 34th annual Society for Industrial and Organizational Psychology conference in Austin, TX.
