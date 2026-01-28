@@ -34,7 +34,15 @@ Thumbs.db
 !**/data/processed/
 
 # ----------------------------
-# Results / Outputs (keep structure only)
+# Results / Outputs
+# Track figures and small, useful artifacts; ignore everything else
 # ----------------------------
 **/results/*
 !**/results/
+!**/results/figures/
+!**/results/figures/**
+!**/results/cv/
+!**/results/cv/**
+!**/results/submissions/
+!**/results/submissions/**
+
