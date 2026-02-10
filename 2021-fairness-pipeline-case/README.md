@@ -130,4 +130,4 @@ Koenig, N., & Thompson, I. (2021). *The 2020–2021 SIOP Machine Learning Compet
 
 ## License
 
-MIT (you can change this to your preference).
+MIT (Just cite my repo...you know the deal).
