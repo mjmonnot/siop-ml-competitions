@@ -6,7 +6,7 @@ Automated extraction of zero-order bivariate Pearson r values from academic PDFs
 
 | Phase    | Studies | MSE      | Rank   | Submission             |
 |----------|---------|----------|--------|------------------------|
-| Dev set  | 127     | 0.013641 | 6 / 10 | submission_v11_study59 |
+| Dev set  | 127     | 0.013641 | 6 / 10 | submission_v11         |
 | Test set | 66      | 0.0351   | TBD    | 2026-04-11             |
 
 Dev-set rank places this submission within 0.0005 MSE of the lab-team and research-squad submissions ranked above it.
