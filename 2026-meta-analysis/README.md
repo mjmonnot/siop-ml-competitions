@@ -109,7 +109,7 @@ Both should print an OK line and exit 0. There is no separate pytest harness.
 
 ## License & credits
 
-- **Pipeline:** Matt Mongiello. License TBD before public release.
+- **Pipeline:** Matt Monnot, PhD. License TBD before public release.
 - **Models:** phi4 (Microsoft, MIT license), qwen2.5-VL:7B (Alibaba, Tongyi Qianwen license), served locally via Ollama.
 - **Libraries:** Docling (IBM, MIT), pdfplumber (Jeremy Singer-Vine, MIT), PyMuPDF (Artifex Software, AGPL).
 - **Agents:** Claude (Anthropic) and Cursor (Anysphere).
