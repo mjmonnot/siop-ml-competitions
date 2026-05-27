@@ -8,6 +8,8 @@ Automated extraction of zero-order bivariate Pearson r values from academic PDFs
 
 📺 [Watch the SIOP 2026 presentation](2026-meta-analysis/media/One%20Hot%20Key_%20ML%20Competition%20Presentation_1080p.mp4)
 
+📄 [Download the presentation deck (PDF)](2026-meta-analysis/docs/one_hot_key_siop_2026.pdf)
+
 ## Headline results
 
 | Phase    | Studies | MSE      | Rank    | Submission      |
