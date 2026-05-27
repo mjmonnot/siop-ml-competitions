@@ -6,6 +6,8 @@ Automated extraction of zero-order bivariate Pearson r values from academic PDFs
   <img src="docs/One%20Hot%20Key%20Poster.png" alt="One Hot Key — SIOP 2026 ML Competition poster" width="720">
 </p>
 
+📺 [Watch the SIOP 2026 presentation](2026-meta-analysis/media/One%20Hot%20Key_%20ML%20Competition%20Presentation_1080p.mp4)
+
 ## Headline results
 
 | Phase    | Studies | MSE      | Rank    | Submission      |
