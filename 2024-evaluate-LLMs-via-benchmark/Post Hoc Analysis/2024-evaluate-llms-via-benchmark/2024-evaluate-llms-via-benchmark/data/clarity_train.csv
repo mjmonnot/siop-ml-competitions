@@ -1,0 +1,161 @@
+_id,item,mean_clarity
+train_1,I feel comfortable around people.,6.166
+train_2,I avoid getting drawn into discussions of feelings.,5.917
+train_3,I find it hard to get going on tasks I don't enjoy.,5.565
+train_4,I would not describe myself as a sentimental person.,5.051
+train_5,I sometimes find it difficult to articulate my ideas at meetings.,4.894
+train_6,I am full of ideas.,6.192
+train_7,I keep my room tidy.,6.046
+train_8,I am not particularly interested in others' problems.,5.164
+train_9,I avoid getting drawn into discussions of feelings.,5.448
+train_10,I get angry easily.,6.174
+train_11,I am not particularly interested in others' problems.,5.488
+train_12,I am not particularly interested in others' problems.,4.976
+train_13,I try not to be the center of attention in social situations.,4.812
+train_14,I rarely feel discouraged when things go wrong.,5.853
+train_15,I rarely feel discouraged when things go wrong.,5.388
+train_16,I am the life of the party.,6.8
+train_17,I am not particularly interested in others' problems.,4.55
+train_18,I work hard.,6.8
+train_19,I find it hard to get going on tasks I don't enjoy.,5.37
+train_20,I sometimes find it difficult to articulate my ideas at meetings.,5.608
+train_21,I sometimes find it difficult to articulate my ideas at meetings.,5.72
+train_22,I keep my room tidy.,6.544
+train_23,I am ambivalent about whether I would prefer order to spontaneity.,4.436
+train_24,I avoid getting drawn into discussions of feelings.,4.617
+train_25,I try not to be the center of attention in social situations.,5.081
+train_26,I follow a schedule.,6.684
+train_27,I follow a schedule.,6.535
+train_28,I enjoy art and music.,6.518
+train_29,I find it hard to get going on tasks I don't enjoy.,5.138
+train_30,I try not to be the center of attention in social situations.,5.419
+train_31,I find it hard to get going on tasks I don't enjoy.,4.734
+train_32,I rarely feel discouraged when things go wrong.,5.785
+train_33,"I am someone who, in most circumstances, would not necessarily decline an opportunity to lead.",4.122
+train_34,I try not to be the center of attention in social situations.,5.247
+train_35,I am not particularly interested in others' problems.,4.641
+train_36,I am not particularly interested in others' problems.,5.061
+train_37,I am not particularly interested in others' problems.,5.122
+train_38,I avoid getting drawn into discussions of feelings.,5.875
+train_39,I find it hard to get going on tasks I don't enjoy.,5.79
+train_40,I would not describe myself as a sentimental person.,5.84
+train_41,It would be inaccurate to describe me as one who never seeks novel experiences.,4.089
+train_42,I tend to start projects without finishing the previous ones.,4.844
+train_43,I tend to start projects without finishing the previous ones.,5.667
+train_44,It is not the case that I avoid social gatherings.,3.772
+train_45,I am ambivalent about whether I would prefer order to spontaneity.,3.968
+train_46,I tend to start projects without finishing the previous ones.,5.885
+train_47,I sometimes find it difficult to articulate my ideas at meetings.,5.993
+train_48,I would not describe myself as a sentimental person.,5.524
+train_49,I like to read.,6.078
+train_50,I am ambivalent about whether I would prefer order to spontaneity.,3.462
+train_51,I find it hard to get going on tasks I don't enjoy.,4.932
+train_52,I would not describe myself as a sentimental person.,5.927
+train_53,I tend to start projects without finishing the previous ones.,5.346
+train_54,I enjoy meeting new people.,6.8
+train_55,I try not to be the center of attention in social situations.,5.314
+train_56,I am not particularly interested in others' problems.,4.878
+train_57,I avoid getting drawn into discussions of feelings.,5.501
+train_58,I tend to start projects without finishing the previous ones.,5.046
+train_59,I do not usually fail to consider the consequences before acting.,4.362
+train_60,I tend to start projects without finishing the previous ones.,5.907
+train_61,I tend to start projects without finishing the previous ones.,4.869
+train_62,I like to help others.,6.499
+train_63,It would be inaccurate to describe me as one who never seeks novel experiences.,4.351
+train_64,I avoid getting drawn into discussions of feelings.,5.817
+train_65,I sometimes find it difficult to articulate my ideas at meetings.,4.967
+train_66,I avoid getting drawn into discussions of feelings.,5.996
+train_67,I try not to be the center of attention in social situations.,4.673
+train_68,I keep my room tidy.,6.413
+train_69,I find it hard to get going on tasks I don't enjoy.,5.411
+train_70,I worry about things.,6.365
+train_71,I do not usually fail to consider the consequences before acting.,4.182
+train_72,"I am someone who, in most circumstances, would not necessarily decline an opportunity to lead.",4.115
+train_73,I worry about things.,6.8
+train_74,It is not the case that I avoid social gatherings.,4.304
+train_75,I tend to start projects without finishing the previous ones.,5.33
+train_76,I rarely feel discouraged when things go wrong.,5.896
+train_77,I sometimes find it difficult to articulate my ideas at meetings.,5.984
+train_78,I rarely am not motivated by external rewards.,4.451
+train_79,I enjoy meeting new people.,6.773
+train_80,I tend to start projects without finishing the previous ones.,5.571
+train_81,It is not the case that I avoid social gatherings.,4.201
+train_82,I am not particularly interested in others' problems.,5.38
+train_83,I am full of ideas.,6.446
+train_84,I would not describe myself as a sentimental person.,5.431
+train_85,I sometimes find it difficult to articulate my ideas at meetings.,5.266
+train_86,I avoid getting drawn into discussions of feelings.,4.834
+train_87,"I am someone who, in most circumstances, would not necessarily decline an opportunity to lead.",4.493
+train_88,I rarely feel discouraged when things go wrong.,5.641
+train_89,I would not describe myself as a sentimental person.,5.614
+train_90,I keep my room tidy.,6.073
+train_91,I would not describe myself as a sentimental person.,5.282
+train_92,I find it hard to get going on tasks I don't enjoy.,4.908
+train_93,I enjoy meeting new people.,6.043
+train_94,I am usually relaxed.,6.238
+train_95,I would not say I am unwilling to make decisions without consultation.,4.031
+train_96,I try not to be the center of attention in social situations.,5.915
+train_97,I find it hard to get going on tasks I don't enjoy.,5.719
+train_98,I am ambivalent about whether I would prefer order to spontaneity.,4.394
+train_99,I avoid getting drawn into discussions of feelings.,5.267
+train_100,I like to read.,6.386
+train_101,I enjoy meeting new people.,6.8
+train_102,I tend to start projects without finishing the previous ones.,5.779
+train_103,I enjoy art and music.,6.241
+train_104,I enjoy meeting new people.,6.8
+train_105,I feel comfortable around people.,6.526
+train_106,I would not say I am unwilling to make decisions without consultation.,4.446
+train_107,It is not the case that I avoid social gatherings.,4.302
+train_108,I try not to be the center of attention in social situations.,4.948
+train_109,I am not particularly interested in others' problems.,5.828
+train_110,I find it hard to get going on tasks I don't enjoy.,5.609
+train_111,"I am someone who, in most circumstances, would not necessarily decline an opportunity to lead.",4.067
+train_112,I try not to be the center of attention in social situations.,5.549
+train_113,I worry about things.,6.373
+train_114,I am quick to understand things.,6.621
+train_115,I would not describe myself as a sentimental person.,5.773
+train_116,I am not particularly interested in others' problems.,5.188
+train_117,I rarely am not motivated by external rewards.,4.372
+train_118,I am full of ideas.,6.796
+train_119,I would not describe myself as a sentimental person.,4.656
+train_120,I am not particularly interested in others' problems.,4.916
+train_121,I find it hard to get going on tasks I don't enjoy.,4.728
+train_122,I avoid getting drawn into discussions of feelings.,5.578
+train_123,I try not to be the center of attention in social situations.,5.239
+train_124,I worry about things.,6.021
+train_125,I avoid getting drawn into discussions of feelings.,4.975
+train_126,I try not to be the center of attention in social situations.,5.357
+train_127,I tend to start projects without finishing the previous ones.,5.725
+train_128,I follow a schedule.,6.08
+train_129,I rarely feel discouraged when things go wrong.,5.656
+train_130,I avoid getting drawn into discussions of feelings.,5.541
+train_131,I find it hard to get going on tasks I don't enjoy.,5.204
+train_132,I am not particularly interested in others' problems.,5.126
+train_133,I feel comfortable around people.,6.8
+train_134,I am quick to understand things.,6.585
+train_135,I avoid getting drawn into discussions of feelings.,5.931
+train_136,It would be inaccurate to describe me as one who never seeks novel experiences.,3.587
+train_137,I find it hard to get going on tasks I don't enjoy.,5.199
+train_138,I would not describe myself as a sentimental person.,4.801
+train_139,I tend to start projects without finishing the previous ones.,5.29
+train_140,I am usually relaxed.,6.026
+train_141,I get angry easily.,6.548
+train_142,"I am someone who, in most circumstances, would not necessarily decline an opportunity to lead.",3.47
+train_143,I am not particularly interested in others' problems.,5.804
+train_144,I tend to start projects without finishing the previous ones.,5.47
+train_145,I am usually relaxed.,6.8
+train_146,It is not the case that I avoid social gatherings.,3.722
+train_147,I work hard.,6.044
+train_148,I like to read.,6.58
+train_149,I sometimes find it difficult to articulate my ideas at meetings.,5.971
+train_150,I would not say I am unwilling to make decisions without consultation.,4.046
+train_151,I avoid getting drawn into discussions of feelings.,4.655
+train_152,I rarely feel discouraged when things go wrong.,4.976
+train_153,I rarely am not motivated by external rewards.,4.184
+train_154,I worry about things.,6.503
+train_155,It is not the case that I avoid social gatherings.,3.337
+train_156,I find it hard to get going on tasks I don't enjoy.,5.585
+train_157,I rarely feel discouraged when things go wrong.,4.745
+train_158,I tend to start projects without finishing the previous ones.,5.205
+train_159,I would not describe myself as a sentimental person.,4.687
+train_160,I am quick to understand things.,6.299
