@@ -116,7 +116,7 @@ Both should exit 0. There is no pytest harness; the goal is auditable code, not 
 
 ## License & credits
 
-- **Pipeline:** Matt Mongiello. MIT.
+- **Pipeline:** Matthew J. Monnot, PhD
 - **Competition data and benchmarks:** SIOP 2024 ML Competition organizers (Marin, Hernandez, Thompson, Yankov, Mirando), Virginia Tech, and DDI. Used here for educational reconstruction.
 - **Winners whose approaches are reconstructed:** PAID Team (Jia, Son, Lee — George Mason), Akben & Aaron (Akben, Satko — Elon), Hungry Llama (Gibson, Halder, Hoffman, Johnson, Luchman, McCann, Tran — Fors Marsh), Wonderlic ML (Menchetti, Cleary, Brinza — Wonderlic). All approach descriptions are paraphrased from the public competition decks; specific prompt wordings are reproduced only as short fragments needed for the teaching notes.
 - **Models:** OpenAI `gpt-4o`. Token counts and pricing accurate as of the date in CHANGELOG.
