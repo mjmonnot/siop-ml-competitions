@@ -80,12 +80,12 @@ Individual years pin their own extras — see that year's `requirements.txt` or 
 - [`docs/teaching-notes.md`](docs/teaching-notes.md) — the recommended per-year teaching pattern.
 - [`docs/repo-conventions.md`](docs/repo-conventions.md) — data and output layout conventions.
 
-## Original competitions
+Original competitions
 
-- 2019: https://github.com/izk8/2019_SIOP_Machine_Learning_Winners
-- 2023: https://github.com/izk8/2023_SIOP_Machine_Learning_Winners
-- 2024: https://github.com/izk8/2024_SIOP_Machine_Learning_Competition
-- 2021: Koenig, N., & Thompson, I. (2021). *The 2020–2021 SIOP Machine Learning Competition.* 36th Annual SIOP Conference, New Orleans, LA.
+2019: https://github.com/izk8/2019_SIOP_Machine_Learning_Winners
+2021: https://github.com/izk8/2021_SIOP_Machine_Learning_Winners — Koenig, N., & Thompson, I. (2021). The 2020–2021 SIOP Machine Learning Competition. 36th Annual SIOP Conference, New Orleans, LA.
+2023: https://github.com/izk8/2023_SIOP_Machine_Learning_Winners
+2024: https://github.com/izk8/2024_SIOP_Machine_Learning_Competition
 
 ## Credits
 
