@@ -86,6 +86,7 @@ Individual years pin their own extras — see that year's `requirements.txt` or 
 - 2021: https://github.com/izk8/2021_SIOP_Machine_Learning_Winners 
 - 2023: https://github.com/izk8/2023_SIOP_Machine_Learning_Winners
 - 2024: https://github.com/izk8/2024_SIOP_Machine_Learning_Competition
+- 2026: https://github.com/izk8/2026_SIOP_Machine_Learning_Competition
 
 ## Credits
 
