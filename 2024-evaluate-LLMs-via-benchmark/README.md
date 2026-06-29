@@ -6,7 +6,7 @@ A post-hoc reconstruction of the SIOP 2024 ML Competition, built two years after
   <img src="docs/FOUR_WINNERS_SIOP2024_poster.png" alt="SIOP 2024 ML Competition poster" width="720">
 </p>
 
-📺 [Watch the SIOP 2024 presentation](https://github.com/mjmonnot/siop-ml-competitions/raw/main/2024-evaluate-LLMs-via-benchmark/media/SIOP%202024%20Retrospective_%20ML%20Competition%20Analysis_1080p.mp4) — click "View raw" to download if directed (COMPING SOON)
+📺 [Watch the SIOP 2024 presentation](https://github.com/mjmonnot/siop-ml-competitions/raw/main/2024-evaluate-LLMs-via-benchmark/media/SIOP%202024%20Retrospective_%20ML%20Competition%20Analysis_1080p.mp4) — click "View raw" to download if directed (74 MB)
 
 📄 [Download the presentation deck (PDF)](docs/SIOP-2024-ML-Retrospective.pdf)
 
