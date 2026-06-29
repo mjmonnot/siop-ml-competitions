@@ -6,7 +6,7 @@ Automated extraction of zero-order bivariate Pearson r values from academic PDFs
   <img src="docs/One%20Hot%20Key%20Poster.png" alt="One Hot Key — SIOP 2026 ML Competition poster" width="720">
 </p>
 
-📺 [Watch the SIOP 2026 presentation](2026-meta-analysis/media/your_filename.mp4) — click "View raw" to download (28 MB)
+📺 [Watch the SIOP 2026 presentation](https://github.com/mjmonnot/siop-ml-competitions/raw/main/2026-meta-analysis/media/One_Hot_Key_ML_Competition_Presentation_1080p.mp4) — click "View raw" to download if directed (28 MB)
 
 📄 [Download the presentation deck (PDF)](2026-meta-analysis/docs/one_hot_key_siop_2026.pdf)
 
@@ -27,7 +27,7 @@ Dev-set rank places this submission within 0.0005 MSE of the lab-team and resear
 
 ## Architecture summary
 
-> Each PDF passes through a 4-tier extraction cascade: Tier 0 (pdfplumber geometric tables), Tier 1 (Docling ML TableFormer with optional qwen2.5-VL crop validation), Tier 1b (qwen2.5-VL on rendered page images), and Tier 2 (regex candidates classified by phi4). PyMuPDF (fitz) sits underneath every tier as the page reader, rasterizer, and region cropper. A high-confidence value at any tier short-circuits the rest. See [ARCHITECTURE.md](https://github.com/mjmonnot/siop-ml-competitions/blob/main/2026-meta-analysis/docs/ARCHITECTURE.md).
+> Each PDF passes through a tiered extraction cascade: Tier 0 (pdfplumber geometric tables), Tier 1 (Docling ML TableFormer with optional qwen2.5-VL crop validation), Tier 1b (qwen2.5-VL on rendered page images), and Tier 2 (regex candidates classified by phi4). PyMuPDF (fitz) sits underneath every tier as the page reader, rasterizer, and region cropper. A high-confidence value at any tier short-circuits the rest. See [ARCHITECTURE.md](https://github.com/mjmonnot/siop-ml-competitions/blob/main/2026-meta-analysis/docs/ARCHITECTURE.md).
 
 ## Repo structure
 

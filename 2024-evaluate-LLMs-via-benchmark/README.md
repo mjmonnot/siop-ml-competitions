@@ -2,6 +2,14 @@
 
 A post-hoc reconstruction of the SIOP 2024 ML Competition, built two years after the fact to ask one question: **can a single unified pipeline keep up with four separate hand-tuned submissions?** The 2024 winners attacked each of the four tasks (empathy, interview generation, item clarity, fairness) with different models, prompts, and stacks. This repo collapses all four into one prompt-engineering harness with task-specific adapters, runs them all against the same model, and reports the comparison.
 
+<p align="center">
+  <img src="docs/FOUR_WINNERS_SIOP2024_poster.png" alt="SIOP 2024 ML Competition poster" width="720">
+</p>
+
+📺 [Watch the SIOP 2024 presentation](https://github.com/mjmonnot/siop-ml-competitions/raw/main/2024-evaluate-LLMs-via-benchmark/media/SIOP%202024%20Retrospective_%20ML%20Competition%20Analysis_1080p.mp4) — click "View raw" to download if directed (COMPING SOON)
+
+📄 [Download the presentation deck (PDF)](docs/SIOP-2024-ML-Retrospective.pdf)
+
 The original competition: https://github.com/izk8/2024_SIOP_Machine_Learning_Competition
 
 ## Headline results
