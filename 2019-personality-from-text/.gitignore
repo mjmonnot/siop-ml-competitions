@@ -12,3 +12,8 @@ Thumbs.db
 
 # Outputs you may or may not want to track
 results/tmp/
+.env
+.env.*
+data/processed/llm_cache/
+data/processed/emb_cache/
+data/processed/base_pred_cache/
