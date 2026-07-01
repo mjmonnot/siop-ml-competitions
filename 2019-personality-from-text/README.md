@@ -90,12 +90,10 @@ prior best.
 |   +-- eval_questionnaire.py     Dev-only questionnaire ablations
 |   +-- pilot_questionnaire.py    small-sample questionnaire diagnostic
 |   +-- run_llm_research_sweep.py multi-stage LLM research sweep (Dev only)
-|   +-- run_example_b_sbert_ridge.py   instructional SBERT baseline
 |
 +-- results/
 |   +-- cv/                       frozen_summary.csv, stage summaries
 |   +-- submissions/              submission_{dev,test}_frozen.csv
-|   +-- figures/                  diagnostic plots
 |   +-- *.log                     run logs
 |
 +-- SOLUTION.md                   final model write-up + reproduction

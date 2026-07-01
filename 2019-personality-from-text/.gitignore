@@ -17,3 +17,40 @@ results/tmp/
 data/processed/llm_cache/
 data/processed/emb_cache/
 data/processed/base_pred_cache/
+
+# --- Old competition-era files: kept locally, not published online ---
+notebooks/
+instructor-notes.md
+results/figures/
+results/cv/cv_summary.csv
+results/submissions/submission_dev.csv
+results/submissions/submission_test.csv
+src/run_example_b_sbert_ridge.py
+
+# Superseded local-only experiment scripts (kept on disk, not published)
+src/bigfive/
+src/run_example_c_*.py
+src/run_example_d_*.py
+src/run_example_e_*.py
+src/run_example_f_*.py
+src/run_example_g_*.py
+src/run_example_h_*.py
+src/run_example_i_*.py
+src/run_example_j_*.py
+src/run_benchmark_comparison.py
+src/run_experiments_improvements.py
+src/run_multibackbone_stack.py
+src/run_multiseed_transformer_stack.py
+preso/
+CURSOR_HANDOFF_SIOP_2019.md
+
+# Superseded local-only result artifacts (kept on disk, not published)
+results/cv/benchmark_comparison.csv
+results/cv/blend_weights*.csv
+results/cv/cv_summary_*.csv
+results/cv/example_*.csv
+results/cv/experiment_summary.csv
+results/cv/multibackbone_*.csv
+results/cv/multiseed_*.csv
+results/cv/soft_corr_*.csv
+results/submissions/*_example_*.csv
