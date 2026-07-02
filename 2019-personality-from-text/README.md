@@ -13,6 +13,14 @@ free-text answers to five open-ended situational judgment items (SJIs).
 
 ---
 
+📄 [View the SIOP 2019 poster (PDF)](docs/SIOP_2019_Poster_Landscape.pdf)
+
+📺 [Watch the SIOP 2019 presentation](https://github.com/mjmonnot/siop-ml-competitions/raw/main/2019-personality-from-text/media/Predicting_Personality_from_Text_MJMONNOT.mp4) — click "View raw" to download if directed (49 MB)
+
+📄 [Download the presentation deck (PDF)](docs/SIOP_Personality_From_Text.pdf)
+
+---
+
 ## Headline result
 
 | Split | mean r | A | C | E | N | O |
