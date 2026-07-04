@@ -56,3 +56,23 @@ Stage 5 re-ran with full questionnaire cache on all splits.
 | Core (no LLM) | ~0.26 | e5-large SVR + TF-IDF + engineered |
 | Stage 4 | **0.3175** | LLM direct scores + behavioral subfeatures |
 | **Stage 5** | **0.3215** | + role-play questionnaire (`llmq:`) |
+
+## References
+
+Frontier comparison for the "at or above the 2025-2026 published frontier" claim -- each
+reports peak/mean short-text r at or below this solution's Test 0.3215:
+
+- Piastra, M., & Catellani, P. (2025). On the emergent capabilities of ChatGPT 4 to estimate
+  personality traits. Frontiers in Artificial Intelligence, 8, 1484260.
+  https://doi.org/10.3389/frai.2025.1484260 -- zero-shot GPT-4 on the Essays and PAN15
+  short-text datasets; best trait r ~ 0.25-0.29.
+- Zhu, J., Jin, R., & Coifman, K. G. (2025). Can LLMs infer personality from real-world
+  conversations? arXiv:2507.14355 -- 555 semi-structured interviews with validated BFI-10
+  scores; peak Pearson r = 0.27.
+
+Method piloted in Stage 5:
+
+- Liu, Y.-F., Lu, Y.-L., He, D., & Zhang, H. (2025). From five dimensions to many: Large
+  language models as precise and interpretable psychological profilers. arXiv:2511.03235 --
+  two-stage persona-summary ("sufficient statistic") approach; piloted but did not beat the
+  plain questionnaire aggregate on mean r.
