@@ -43,9 +43,3 @@ vs standards-aligned).
 4. Standards-aligned thresholds chosen on **fit OOF** scores only (5-fold),
    with selection rate constrained to 0.50 ± 0.02 unless explicitly
    marked `unconstrained`.
-
-## Media package (pending)
-
-Poster, presentation deck, and narrated video are intentionally **not** in this
-upgrade. They will be produced separately (Claude Design + HeyGen) and dropped
-into `docs/` + `media/` later. See `docs/MEDIA_TODO.md`.

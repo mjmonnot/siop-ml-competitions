@@ -11,9 +11,6 @@ This case asks one comparative question:
 Original competition / winners archive:
 https://github.com/izk8/2021_SIOP_Machine_Learning_Winners
 
-> **Media package pending.** Poster, deck, and narrated video will be added via
-> Claude Design + HeyGen (`docs/MEDIA_TODO.md`). Everything else below is in place.
-
 ---
 
 ## Headline results
@@ -105,10 +102,8 @@ Freeze comparison entrypoint: `python -m src.run_compare`.
 │   ├── STATUS.md
 │   ├── ARCHITECTURE.md
 │   ├── WINNERS_SYNTHESIS.md
-│   ├── KNOWN_LANDMINES.md
-│   └── MEDIA_TODO.md
-├── figures/
-└── media/                      (pending HeyGen video)
+│   └── KNOWN_LANDMINES.md
+└── figures/
 ```
 
 ---
