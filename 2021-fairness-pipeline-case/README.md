@@ -158,4 +158,4 @@ Organizational Psychology, New Orleans, LA.
 
 ## License
 
-MIT (see `LICENSE`).
+MIT — see [LICENSE](LICENSE).
