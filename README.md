@@ -14,7 +14,7 @@ A year-over-year, reproducible collection of **reference implementations** and *
 | Year | Folder | Task | Metric | Status |
 |------|--------|------|--------|--------|
 | 2019 | `2019-personality-from-text/` | Big Five personality from open-ended SJI text | Mean Pearson *r* across five traits | Complete, runnable (results committed) |
-| 2021 | `2021-fairness-pipeline-case/` | Fairness in a hiring/selection pipeline | Adverse impact ratio vs. accuracy trade-offs | Complete case study (drop in data to run) |
+| 2021 | `2021-fairness-pipeline-case/` | Fairness in a hiring/selection pipeline | Final = accuracy − AIR unfairness | Complete post-hoc comparison (holdout measured; media pending) |
 | 2023 | `2023-decision-making-from-text/` | Decision-making ratings from open-ended text | Correlation on a numeric rating (+ fairness audit) | Scaffold / in progress |
 | 2024 | `2024-evaluate-LLMs-via-benchmark/` | Four LLM benchmarks: empathy, interview, clarity, fairness | 0.25-weighted composite | Measured end-to-end on synthetic data (composite .817 test); official inputs unavailable |
 | 2026 | `2026-meta-analysis/` | Extracting bivariate Pearson *r* values from I-O psych PDFs | MSE vs. held-out *r* values | Complete; competed (dev 6/24, test 11/24) |
@@ -25,7 +25,7 @@ There is no 2020, 2022, or 2025 directory — years are added as cases get built
 
 **2019 — Personality from text.** Predicts Big Five traits from open-ended situational-judgment responses. Ships two reference pipelines: a TF-IDF + Ridge blend (the strong, competition-appropriate baseline) and an SBERT + Ridge contrast model. The intentional lesson: on a rank-order metric like Pearson *r*, a well-tuned linear text model can beat modern sentence embeddings.
 
-**2021 — Fairness in the pipeline.** A case study built for lay readers (students, HR/compliance, executives) with two parallel implementations: a competition-style reference solution (one-hot + XGBoost + weighted ensemble + median cut, included as a *contrast* case) and a standards-aligned pipeline that generates scores without protected-group membership and uses that membership only for evaluation and governance. Includes notebooks for adverse-impact-ratio and accuracy-vs-AIR trade-off analysis. MIT licensed.
+**2021 — Fairness in the pipeline.** A post-hoc comparison of the 2020–2021 winners against two reproducible pipelines: a Team Procrustination–style ensemble (with a protected×retained scoring proxy) and a standards-aligned alternative that keeps protected status out of scoring and uses it only for cut-score governance. Frozen holdout measurement shows the proxy buys ~8 final points via unfairness reduction; unconstrained threshold search games the metric by hiring nearly everyone. Includes winners synthesis, architecture / landmine docs, and AIR trade-off notebooks. Poster/deck/video pending. MIT licensed.
 
 **2023 — Decision making from text.** A reproducible scaffold for the 2023 winners' task (predicting assessment-center decision-making ratings from open text). The planned pipeline is validate → preprocess → features → train → evaluate → fairness audit, with a TF-IDF + Ridge baseline and an SBERT-ready template. This year is still an early scaffold (README, requirements, and a synthetic demo dataset); the runnable `src/` is not committed yet.
 
@@ -47,7 +47,7 @@ siop-ml-competitions/
 │   └── repo-conventions.md        ← data/output layout conventions
 │
 ├── 2019-personality-from-text/    ← src + notebooks + results + README
-├── 2021-fairness-pipeline-case/   ← two implementations + evaluation notebooks
+├── 2021-fairness-pipeline-case/   ← comparative post-hoc + teaching contrast (media pending)
 ├── 2023-decision-making-from-text/← scaffold (README + requirements)
 ├── 2024-evaluate-LLMs-via-benchmark/ ← pipeline, adapters, scoring, notebooks, docs
 └── 2026-meta-analysis/            ← extraction pipelines, docs, media

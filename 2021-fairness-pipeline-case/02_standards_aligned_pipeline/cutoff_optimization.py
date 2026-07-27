@@ -71,10 +71,9 @@ def main():
         train.drop(columns=["split"], inplace=True)
 
     # IMPORTANT TEACHING NOTE:
-    # In an ideal applied workflow, the threshold should be chosen using *out-of-sample* (CV) predicted scores on the training set.
+    # Prefer out-of-fold predicted scores for threshold selection.
+    # The freeze comparison in `python -m src.run_compare` does that end-to-end.
     # Here, we provide a simple placeholder 'score_cv' if you don't have CV scores available yet.
-    #
-    # If you want the most principled version, add a CV step that creates out-of-fold predictions and store them in train['score_cv'].
     if "score_cv" not in train.columns:
         # A transparent placeholder proxy (NOT a deployment recommendation):
         # It uses only labels to create a "governance score" so the threshold selection process can be demonstrated.

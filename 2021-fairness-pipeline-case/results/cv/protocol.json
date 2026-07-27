@@ -1,0 +1,10 @@
+{
+  "protocol": "stratified_holdout_on_labeled_train",
+  "seed": 42,
+  "holdout_fraction": 0.2,
+  "n_labeled": 7890,
+  "n_fit": 6312,
+  "n_holdout": 1578,
+  "train_path": "C:\\Users\\mjmon\\OneDrive\\Pictures\\Documents\\GitHub\\siop-ml-competitions\\2021-fairness-pipeline-case\\00_data\\train.csv",
+  "note": "Private-test labels are not public. Measured scores are holdout-Train only and are NOT directly comparable to published Place 1\u20134 private-test scores."
+}

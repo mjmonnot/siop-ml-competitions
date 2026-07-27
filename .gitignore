@@ -33,6 +33,13 @@ Thumbs.db
 **/data/processed/*
 !**/data/processed/
 
+# 2021 case uses 00_data/ and a local winners archive
+**/00_data/*.csv
+**/00_data/*.xlsx
+**/2021 Winners and Data/
+**/2023 Winners and Data/
+**/2024 Winners and Data/
+
 # ----------------------------
 # Results / Outputs
 # Track figures and small, useful artifacts; ignore everything else
